@@ -5,6 +5,7 @@ def Fizzbuzz(value):
         return 'Buzz'
     if value%3 == 0:
         return 'Fizz'
+    return value
 
 assert Fizzbuzz(15) == 'FizzBuzz'
 assert Fizzbuzz(5) == 'Buzz'
