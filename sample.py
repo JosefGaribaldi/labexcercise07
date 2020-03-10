@@ -1,9 +1,8 @@
 def Fizzbuzz(value):
     if value%5 == 0 and value%3 == 0:
         return 'FizzBuzz'
+    if value%5 == 0:
+        return 'Buzz'
 
 assert Fizzbuzz(15) == 'FizzBuzz'
-print(Fizzbuzz(15))
-print(Fizzbuzz(5))
-print(Fizzbuzz(9))
-print(Fizzbuzz(2))
+assert Fizzbuzz(5) == 'Buzz'
