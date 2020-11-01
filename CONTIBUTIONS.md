@@ -4,6 +4,7 @@ The following is a excercise
 Contributions of following sprints:
 
 Sprint 1:
+
 Commenting of code. 
 Standup/decision protocol. 
 Implemented in account models. 
