@@ -9,7 +9,7 @@ Standup/decision protocol
 Implemented in account models
 
 Sprint 2:
-Implemented a way to access the product via a login/register combo files in account were later altered
+Implemented a way to access the product via a login/register combo files in account were later altered\n
 Implemented unit tests for product and account
 Reviewed code and commenting
 
